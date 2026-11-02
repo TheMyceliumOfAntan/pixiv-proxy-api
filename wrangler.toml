@@ -1,4 +1,4 @@
-name = "pixiv-proxy"
+﻿name = "pixiv-proxy-api"
 main = "cloudflare-worker-pixiv-proxy.js"
 compatibility_date = "2024-01-01"
 
